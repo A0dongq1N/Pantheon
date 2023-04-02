@@ -1,0 +1,7 @@
+﻿  client.cpp
+D:\Pantheon\Windows\OneSendOneRecvClient\client.cpp(69,25): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Pantheon\Windows\OneSendOneRecvClient\client.cpp(84,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Pantheon\Windows\OneSendOneRecvClient\client.cpp(90,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Pantheon\Windows\OneSendOneRecvClient\client.cpp(91,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Pantheon\Windows\OneSendOneRecvClient\client.cpp(101,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  OneSendOneRecvClient.vcxproj -> D:\Pantheon\Windows\\bin\OneSendOneRecvClient\Debug\OneSendOneRecvClient.exe
