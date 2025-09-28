@@ -1,0 +1,15 @@
+{
+  "C_Cpp.intelliSenseEngine": "Disabled",
+  "C_Cpp.intelliSenseEngineFallback": false,
+  "C_Cpp.formatting": "Disabled",
+  "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd",
+  "files.associations": {
+    "*.cc": "cpp",
+    "*.cpp": "cpp",
+    "*.cxx": "cpp",
+    "*.hh": "cpp",
+    "*.hpp": "cpp",
+    "*.hxx": "cpp"
+  }
+}
+

@@ -1,0 +1,8 @@
+CompileFlags:
+  # 作为兜底，若某些子目录暂未生成 compile_commands.json，则追加以下包含路径
+  Add: [
+    -Iinclude,
+    -Ithird_party
+  ]
+
+
