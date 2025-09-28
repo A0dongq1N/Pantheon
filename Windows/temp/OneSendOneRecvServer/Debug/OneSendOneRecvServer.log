@@ -1,4 +1,0 @@
-﻿  server.cpp
-D:\Pantheon\Windows\OneSendOneRecvServer\server.cpp(88,47): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
-D:\Pantheon\Windows\OneSendOneRecvServer\server.cpp(90,13): warning C4101: “header”: 未引用的局部变量
-  OneSendOneRecvServer.vcxproj -> D:\Pantheon\Windows\\bin\OneSendOneRecvServer\Debug\OneSendOneRecvServer.exe
