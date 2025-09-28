@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/data/workspace/github/Pantheon/one_send_one_recv_struct_msg/build",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/one_send_one_recv_client_struct_msg.dir/client.cc.o -c /data/workspace/github/Pantheon/one_send_one_recv_struct_msg/client.cc",
+  "file": "/data/workspace/github/Pantheon/one_send_one_recv_struct_msg/client.cc",
+  "output": "CMakeFiles/one_send_one_recv_client_struct_msg.dir/client.cc.o"
+},
+{
+  "directory": "/data/workspace/github/Pantheon/one_send_one_recv_struct_msg/build",
+  "command": "/usr/bin/c++   -std=c++17 -o CMakeFiles/one_send_one_recv_server_struct_msg.dir/server.cc.o -c /data/workspace/github/Pantheon/one_send_one_recv_struct_msg/server.cc",
+  "file": "/data/workspace/github/Pantheon/one_send_one_recv_struct_msg/server.cc",
+  "output": "CMakeFiles/one_send_one_recv_server_struct_msg.dir/server.cc.o"
+}
+]

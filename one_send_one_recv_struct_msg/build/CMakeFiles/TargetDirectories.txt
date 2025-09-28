@@ -1,0 +1,4 @@
+/data/workspace/github/Pantheon/one_send_one_recv_struct_msg/build/CMakeFiles/one_send_one_recv_client_struct_msg.dir
+/data/workspace/github/Pantheon/one_send_one_recv_struct_msg/build/CMakeFiles/one_send_one_recv_server_struct_msg.dir
+/data/workspace/github/Pantheon/one_send_one_recv_struct_msg/build/CMakeFiles/edit_cache.dir
+/data/workspace/github/Pantheon/one_send_one_recv_struct_msg/build/CMakeFiles/rebuild_cache.dir

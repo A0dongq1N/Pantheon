@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/one_send_one_recv_server_struct_msg.dir/server.cc.o -o one_send_one_recv_server_struct_msg 
